@@ -1,2 +1,2 @@
 # R code
- Ashley B ythell - R code
+ Ashley Bythell - R code
