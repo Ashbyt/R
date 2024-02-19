@@ -1,3 +1,3 @@
 # R code
 
-Ashley Bythell
+Ashley Bythell r-code repository
