@@ -1,6 +1,6 @@
 #Text analysis and visualisation with R
 #http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
-#incomplete - more to add.....
+#incomplete - more to add..... (4. Making sense of relational and textual data)
 
 library("tm") # for text mining
 library("SnowballC") # for text stemming
