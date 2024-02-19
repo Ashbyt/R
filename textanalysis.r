@@ -8,8 +8,13 @@ library("wordcloud")
 library("RColorBrewer")
 
 # Read the text file
-filePath <- "WordCloud.txt" # 
+#filePath <- "WordCloud.txt" # 
+#text <- readLines(filePath)
+
+# Read the text file from internet
+filePath <- "http://www.sthda.com/sthda/RDoc/example-files/martin-luther-king-i-have-a-dream-speech.txt"
 text <- readLines(filePath)
+
 
 # Load the data as a corpus and save a copy as 'input'
 input <- Corpus(VectorSource(text))
