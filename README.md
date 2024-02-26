@@ -6,6 +6,7 @@ https://www.modernstatisticswithr.com/
 https://web.itu.edu.tr/~tokerem/The_Book_of_R.pdf
 https://nyu-cdsc.github.io/learningr/assets/discoveringstatistics.pdf
 https://www.arma.org.au/wp-content/uploads/2017/03/introduction-to-statistical-data-analysis-with-r.pdf
+https://www.datacamp.com/tutorial/machine-learning-in-r
 
 
 Ashley Bythell r-code repository
