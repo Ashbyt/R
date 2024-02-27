@@ -11,6 +11,7 @@ https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
 https://www.analyticsvidhya.com/blog/2020/12/predicting-using-linear-regression-in-r/
 https://www.datacamp.com/tutorial/logistic-regression-R
 https://www.datacamp.com/tutorial/keras-r-deep-learning
+https://tensorflow.rstudio.com/install/
 
 
 Ashley Bythell r-code repository
