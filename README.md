@@ -12,6 +12,7 @@ https://www.analyticsvidhya.com/blog/2020/12/predicting-using-linear-regression-
 https://www.datacamp.com/tutorial/logistic-regression-R
 https://www.datacamp.com/tutorial/keras-r-deep-learning
 https://tensorflow.rstudio.com/install/
+https://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
 
 
 Ashley Bythell r-code repository
