@@ -1,5 +1,6 @@
 # R code
 
+https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
 https://users.stat.ufl.edu/~winner/datasets.html
 https://shiny.posit.co/r/articles/start/basics/
 https://www.modernstatisticswithr.com/
