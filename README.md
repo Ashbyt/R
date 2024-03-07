@@ -18,7 +18,7 @@ https://www.datacamp.com/tutorial/logistic-regression-R
 https://www.datacamp.com/tutorial/keras-r-deep-learning
 https://tensorflow.rstudio.com/install/
 https://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
-
+https://www.youtube.com/watch?v=h29g21z0a68
 
 Ashley Bythell r-code repository
 
