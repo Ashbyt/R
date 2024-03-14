@@ -1,4 +1,5 @@
 # R code
+https://www.r-bloggers.com/2024/03/navigating-the-cosmos-quarto-the-next-generation-of-data-storytelling/
 https://www.data-to-art.com/
 https://ggplot2.tidyverse.org
 https://r-graph-gallery.com/
