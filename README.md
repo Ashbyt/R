@@ -1,5 +1,6 @@
 # R code
 https://www.r-bloggers.com/2024/03/navigating-the-cosmos-quarto-the-next-generation-of-data-storytelling/
+https://intelligency.org/ai_r.php
 https://www.linkedin.com/learning/r-essential-training-wrangling-and-visualizing-data
 https://www.data-to-art.com/
 https://ggplot2.tidyverse.org
