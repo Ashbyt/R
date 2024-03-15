@@ -1,5 +1,6 @@
 # R code
 
+https://juliaactuary.org/
 https://www.infoworld.com/article/3694611/8-chatgpt-tools-for-r-programming.html
 https://michelnivard.github.io/gptstudio/
 https://www.r-bloggers.com/2024/03/navigating-the-cosmos-quarto-the-next-generation-of-data-storytelling/
