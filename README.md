@@ -1,4 +1,6 @@
 # R code
+
+https://michelnivard.github.io/gptstudio/
 https://www.r-bloggers.com/2024/03/navigating-the-cosmos-quarto-the-next-generation-of-data-storytelling/
 https://intelligency.org/ai_r.php
 https://www.linkedin.com/learning/r-essential-training-wrangling-and-visualizing-data
