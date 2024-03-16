@@ -31,6 +31,10 @@ https://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
 https://www.youtube.com/watch?v=h29g21z0a68
 https://posit.cloud/learn/recipes
 https://actuariesinstitute.github.io/cookbook/docs/bayesian-applications.html
+https://rtutor.ai/
+https://slashdot.org/software/ai-coding-assistants/for-r/
+https://fchiaramonte.com/artificial-intelligence-with-r/
+
 
 Ashley Bythell r-code repository
 
