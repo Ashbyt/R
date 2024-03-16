@@ -1,5 +1,6 @@
 # R code
 
+https://www.dataquest.io/blog/how-to-create-a-dataframe-in-r/
 https://ggplot2-book.org/programming
 https://juliaactuary.org/
 https://epirhandbook.com/en/dashboards-with-shiny.html
