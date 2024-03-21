@@ -19,6 +19,7 @@ https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc36
 https://www.r-bloggers.com/
 https://actuaries.org.uk/media/mx1l3wko/r-guide_technical-_ms-final-v3.pdf
 https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
+https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
 https://users.stat.ufl.edu/~winner/datasets.html
 https://shiny.posit.co/r/articles/start/basics/
 https://www.modernstatisticswithr.com/
@@ -38,6 +39,8 @@ https://actuariesinstitute.github.io/cookbook/docs/bayesian-applications.html
 https://rtutor.ai/
 https://slashdot.org/software/ai-coding-assistants/for-r/
 https://fchiaramonte.com/artificial-intelligence-with-r/
+https://www.tidy-finance.org/r/
+
 
 
 Ashley Bythell r-code repository
