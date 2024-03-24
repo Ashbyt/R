@@ -1,5 +1,6 @@
 # R code
 
+https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 https://www.computerworld.com/article/3038270/create-maps-in-r-in-10-fairly-easy-steps.html
 https://cran.r-project.org/web/packages/ozmaps/ozmaps.pdf
 https://medium.com/analytics-vidhya/mapping-australia-in-r-6ce092c48b49
@@ -45,7 +46,7 @@ https://rtutor.ai/
 https://slashdot.org/software/ai-coding-assistants/for-r/
 https://fchiaramonte.com/artificial-intelligence-with-r/
 https://www.tidy-finance.org/r/
-
+https://www.analyticsvidhya.com/blog/2022/06/build-a-step-by-step-machine-learning-model-using-r/
 
 
 Ashley Bythell r-code repository
