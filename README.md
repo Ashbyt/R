@@ -1,4 +1,8 @@
 # R code
+
+https://www.computerworld.com/article/3038270/create-maps-in-r-in-10-fairly-easy-steps.html
+https://cran.r-project.org/web/packages/ozmaps/ozmaps.pdf
+https://medium.com/analytics-vidhya/mapping-australia-in-r-6ce092c48b49
 https://www.appsilon.com/post/object-oriented-programming-in-r-part-1
 https://uc-r.github.io/dataframes
 https://www.earthdata.nasa.gov/technology/r-programming-language#:~:text=R%20is%20a%20software%20language,Software%20in%20source%20code%20form.
