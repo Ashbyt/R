@@ -48,7 +48,7 @@ https://slashdot.org/software/ai-coding-assistants/for-r/
 https://fchiaramonte.com/artificial-intelligence-with-r/
 https://www.tidy-finance.org/r/
 https://www.analyticsvidhya.com/blog/2022/06/build-a-step-by-step-machine-learning-model-using-r/
-
+https://www.manning.com/books/deep-learning-with-r#:~:text=If%20you're%20looking%20to,is%20the%20perfect%20next%20step.
 
 Ashley Bythell r-code repository
 
