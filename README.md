@@ -1,5 +1,6 @@
 # R programming language
 
+https://www.oreilly.com/library/view/introduction-to-machine/9781491976432/
 https://medium.com/geekculture/top-must-read-r-programming-books-fa4fc820b413
 https://www.bigbookofr.com/
 https://www.statology.org/r-built-in-datasets/
