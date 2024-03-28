@@ -1,4 +1,4 @@
-# R code
+# R programming language
 
 https://www.statology.org/r-built-in-datasets/
 https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
