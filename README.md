@@ -1,5 +1,6 @@
 # R programming language
 
+https://www.tutorialspoint.com/r/r_bar_charts.htm
 https://www.oreilly.com/library/view/introduction-to-machine/9781491976432/
 https://www.oreilly.com/library/view/r-programming-fundamentals/9781789612998/
 https://medium.com/geekculture/top-must-read-r-programming-books-fa4fc820b413
