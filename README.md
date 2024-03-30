@@ -1,5 +1,6 @@
 # R programming language
 
+https://www.booktopia.com.au/statistical-analysis-with-r-for-dummies-joseph-schmuller/book/9781119337065.html?source=pla&gad_source=1&gclid=Cj0KCQjw8J6wBhDXARIsAPo7QA9fvjvJLcF2kBmLTBjz5C-tUwMRTKnJ6T-0udsz7ycgUQvRM9jF8J8aAj8-EALw_wcB
 https://www.tutorialspoint.com/r/r_bar_charts.htm
 https://www.routledge.com/Computational-Actuarial-Science-with-R/Charpentier/p/book/9781138033788
 https://www.oreilly.com/library/view/introduction-to-machine/9781491976432/
