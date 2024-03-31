@@ -1,5 +1,6 @@
 # R programming language
 
+https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/syllabus/
 https://www.linkedin.com/learning/topics/r
 https://www.booktopia.com.au/statistical-analysis-with-r-for-dummies-joseph-schmuller/book/9781119337065.html?source=pla&gad_source=1&gclid=Cj0KCQjw8J6wBhDXARIsAPo7QA9fvjvJLcF2kBmLTBjz5C-tUwMRTKnJ6T-0udsz7ycgUQvRM9jF8J8aAj8-EALw_wcB
 https://www.tutorialspoint.com/r/r_bar_charts.htm
