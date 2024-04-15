@@ -1,6 +1,7 @@
 # R programming language
 
 https://r-charts.com/
+https://www.dummies.com/book/technology/information-technology/data-science/general-data-science/data-analytics-visualization-all-in-one-for-dummies-301685/
 https://spreadsheeto.com/excel-crash-course/
 https://shiny.posit.co/
 https://www.geeksforgeeks.org/r-libraries-for-data-science/
