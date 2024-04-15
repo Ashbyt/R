@@ -13,6 +13,7 @@ https://www.oreilly.com/library/view/introduction-to-machine/9781491976432/
 https://www.oreilly.com/library/view/r-programming-fundamentals/9781789612998/
 https://medium.com/geekculture/top-must-read-r-programming-books-fa4fc820b413
 https://www.bigbookofr.com/
+https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-2021-all-in-one-for-dummies-cheat-sheet-288828/
 https://www.statology.org/r-built-in-datasets/
 https://machinelearningmastery.com/machine-learning-in-r-step-by-step/
 https://www.computerworld.com/article/3038270/create-maps-in-r-in-10-fairly-easy-steps.html
