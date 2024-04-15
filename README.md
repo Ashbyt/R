@@ -1,6 +1,7 @@
 # R programming language
 
 https://r-charts.com/
+https://spreadsheeto.com/excel-crash-course/
 https://shiny.posit.co/
 https://www.geeksforgeeks.org/r-libraries-for-data-science/
 https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/pages/syllabus/
