@@ -1,5 +1,7 @@
 # R programming language
 
+
+https://medium.com/databulls/is-r-on-the-decline-f58420d542f1
 https://r-charts.com/
 https://www.dummies.com/book/technology/information-technology/data-science/general-data-science/data-analytics-visualization-all-in-one-for-dummies-301685/
 https://spreadsheeto.com/excel-crash-course/
